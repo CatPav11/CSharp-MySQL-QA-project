@@ -19,5 +19,6 @@ As the laptop I had used throughout the academy broke down on the first day of t
 I also had trouble with returning the count of records from my SQL to C# as I don’t recall doing this in the academy and probably spent too long on problem solving this. 
 
 Possible improvements for future
+
 For the future I would like to make the code smaller and more streamlined. Some of my functions are a bit clunky so with some practice I would like to improve on those. 
 
